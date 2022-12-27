@@ -33,3 +33,10 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Resources that helped me:
+
+Helped me convert my logo to SVG format:[Digicert] (https://knowledge.digicert.com/solution/convert-your-logo-to-svg-format.html)
+
+Tools used:
+Adobe Illustrator
