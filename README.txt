@@ -40,3 +40,6 @@ Helped me convert my logo to SVG format:[Digicert] (https://knowledge.digicert.c
 
 Tools used:
 Adobe Illustrator
+
+Helped with quickly creating my logo:
+[FreeLogo Design](https://www.freelogodesign.org/)
